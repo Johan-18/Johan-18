@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Johan Tamayo otherwise known as Dajo Code
+- 👋 Hi, I’m Johan Tamayo known as Dajo Code
 - 👀 I’m interested in developing front and backend javascript code for web apps and mobile apps
-- 🌱 I’m currently learning the MERN stack
+- 🌱 I’m currently learning the MERN stack, I am futhuring my education on backend devleopment with different databases such as mongoBD, microsoft firebase, and azure playfab
 - 📫 How to reach me dajocode@gmail.com
 
 <!---
